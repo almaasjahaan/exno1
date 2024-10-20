@@ -31,7 +31,14 @@ STEP 6: Use zscore of to remove outliers
 ![Screenshot (7)](https://github.com/user-attachments/assets/59bb9739-13d8-4b3d-b9fa-466ac4cda980)
 ![Screenshot (8)](https://github.com/user-attachments/assets/b7cbe44a-4500-40f7-9df9-65cbc7305355)
 ![Screenshot (9)](https://github.com/user-attachments/assets/37c9eedc-cd88-4ae9-a698-87ba491be175)
-![Screenshot (10)](https://github.com/user-attachments/assets/8b6b3afb-9728-4fa2-8cad-c01af148c679)
+![screenshot 11](https://github.com/user-attachments/assets/31f85a6d-4b9c-4aa4-840e-19066e4dcde7)
+![screenshot 12](https://github.com/user-attachments/assets/bb0b4334-0363-429c-af9b-174162bcec71)
+![screenshot 13](https://github.com/user-attachments/assets/0836364a-6c65-4ce9-8e10-d376c6063cad)
+![screenshot 14](https://github.com/user-attachments/assets/e5d18e2b-74bf-441d-8e54-819d06e87171)
+![screenshot 15](https://github.com/user-attachments/assets/64a80feb-cc8a-4865-9398-596d2e7c8cff)
+![screenshot 16](https://github.com/user-attachments/assets/2e26ee6b-8d67-4eae-8472-5aac9248a50a)
+![screenshot 17](https://github.com/user-attachments/assets/89a6d966-c29d-4fd3-aef2-1b07b58e8aaa)
+
 
 
 
