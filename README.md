@@ -1,4 +1,4 @@
-![Screenshot (1)](https://github.com/user-attachments/assets/6e3395a0-68e2-455b-8201-9092d5dc182b)# Exno:1
+
 Data Cleaning Process
 
 # AIM
